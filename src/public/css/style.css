@@ -1,4 +1,7 @@
 div {
     color: red;
     border-color: black;
+    position: relative;
+    border-radius: 1;
+    border-style: dashed;
 }
