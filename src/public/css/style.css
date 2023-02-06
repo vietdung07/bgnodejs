@@ -4,4 +4,11 @@ div {
     position: relative;
     border-radius: 1;
     border-style: dashed;
+    left: 100px;
+}
+
+img {
+    width: 50%;
+    position: relative;
+    top: 10px
 }
